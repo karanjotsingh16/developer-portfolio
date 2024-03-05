@@ -38,5 +38,9 @@ function closeMenu() {
     navMenu.classList.remove("active");
 }
 
+ function onLoadFunctions() {
+       document.body.style.zoom = "75%";  
+  }
+
 
 
