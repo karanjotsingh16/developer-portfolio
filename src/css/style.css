@@ -99,6 +99,10 @@ main hr{
     justify-content: center;
 }
 
+#skill{
+    margin: 148px 84px;
+}
+
 .logo img{
     height: 200px;
     width: 200px;
